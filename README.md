@@ -1,3 +1,5 @@
+# Future Ready Talent Project By Tanneru Sri Lakshmi Venkata Mounika
+
 # Humanity
 
 Microsoft-Future-Ready-Talent-Internship-Project
@@ -12,9 +14,9 @@ Industry : Lifestyle
 
 Project Title : Humanity
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : Humanity is a virtue linked with basic ethics of altruism derived from the human condition. It also symbolises human love and compassion towards each other. Humanity differs from mere justice in that there is a level of altruism towards individuals included in humanity more so than the fairness found in justice.
 
-Project Description : 
+Project Description : in this project we have following the sub templates are home, about, short codes, gallery, contact and health bot. In index template we have the complete code about the project. In this index, we have the certain options like about, short code and contact.
 
 Primary Azure Technology : Static Web Apps, Azure Health Bot
 
